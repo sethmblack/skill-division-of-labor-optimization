@@ -3,8 +3,9 @@ name: division-of-labor-optimization
 description: Analyze a process or organization to identify opportunities for specialization and productivity gains.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3849
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - division-of-labor-optimization
 - transformation
